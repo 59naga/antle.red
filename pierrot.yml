@@ -1,0 +1,5 @@
+apps:
+  vpd:
+    repo: https://github.com/59naga/vpd.antle.red.git
+    from: vpd.antle.red
+    to: 59001
