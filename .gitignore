@@ -13,6 +13,8 @@ pkgs.*
 storage
 env_secret.coffee
 nicolive.json
+
 lib
 tmp
 bundle.js*
+dist
