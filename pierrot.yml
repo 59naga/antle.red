@@ -1,3 +1,6 @@
+key: /etc/letsencrypt/live/antle.red/privkey.pem
+cert: /etc/letsencrypt/live/antle.red/cert.pem
+
 apps:
   vpd:
     repo: https://github.com/59naga/vpd.antle.red.git
