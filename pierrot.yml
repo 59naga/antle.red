@@ -3,10 +3,10 @@ cert: /etc/letsencrypt/live/antle.red/cert.pem
 
 apps:
   vpd:
-    repo: https://github.com/59naga/vpd.antle.red.git
+    repo: https://github.com/beraboume/vpd.antle.red.git
     from: vpd.antle.red
     to: 59001
   narou:
-    repo: https://github.com/59naga/narou.antle.red.git
+    repo: https://github.com/beraboume/narou.antle.red.git
     from: narou.antle.red
     to: 59002
