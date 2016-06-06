@@ -6,3 +6,7 @@ apps:
     repo: https://github.com/59naga/vpd.antle.red.git
     from: vpd.antle.red
     to: 59001
+  narou:
+    repo: https://github.com/59naga/narou.antle.red.git
+    from: narou.antle.red
+    to: 59002
