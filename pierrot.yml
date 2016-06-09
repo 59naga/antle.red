@@ -10,3 +10,7 @@ apps:
     repo: https://github.com/beraboume/narou.antle.red.git
     from: narou.antle.red
     to: 59002
+  npm-tarball:
+    repo: https://github.com/beraboume/npm-tarball.antle.red.git
+    from: npm-tarball.antle.red
+    to: 59003
